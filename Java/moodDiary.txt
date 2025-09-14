@@ -1,0 +1,52 @@
+[02-07-2025 22:19:09] hello - Mood : Happy
+Reason:
+
+----------------------------------
+[02-07-2025 22:55:23] gu - Mood : Sad
+Reason:
+sad today
+[02-07-2025 22:55:54] gu - Mood : Sleepy
+Reason:
+sleepy more
+[03-07-2025 17:00:31] gu - Mood : Sick
+Reason:
+very bad
+----------------------------------
+[03-07-2025 17:00:59] gu - Mood : Sleepy
+Reason:
+tired
+----------------------------------
+[03-07-2025 17:01:33] gu - Mood : Sad
+Reason:
+bad
+----------------------------------
+[03-07-2025 17:02:47] deeps - Mood : Confused
+Reason:
+dont know
+----------------------------------
+[03-07-2025 17:23:38] hi - Mood : Nervous
+Reason:
+
+----------------------------------
+[03-07-2025 21:14:38] deva - Mood : Sad
+Reason:
+My lover not coming with me to Tirumala.
+----------------------------------
+[03-07-2025 21:15:10] deva - Mood : Happy
+Reason:
+Because my lover coming to Tirumala.
+[21-07-2025 09:35:38] sushmareddy - Mood : Sick
+Reason:
+my stomach is upset
+----------------------------------
+[21-07-2025 09:37:21] sushmareddy - Mood : Confused
+Reason:
+one man proposed me. i dont know what to do
+----------------------------------
+[21-07-2025 09:46:13] Deepika - Mood : Happy
+Reason:
+I have a nice time with my bestie. we enjoyed moents together.
+[21-07-2025 09:46:48] Deepika - Mood : Sleepy
+Reason:
+Because I am very tired of work and want to sleep
+----------------------------------
